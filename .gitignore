@@ -1,0 +1,4 @@
+node_modules/
+.env
+tomorrow-weather.txt
+weather-*.txt
